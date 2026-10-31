@@ -15,7 +15,7 @@ echo "<p>Jumlah Halaman: ".$artikel["jumlah_halaman"]."</p>";
 // membuat array asosiatif
 // $artikel = [
 //     "judul" = "Modul 2 - PHP Dasar",
-//     "penulis" = "Nadine Safwabilla",
+//     "penulis" = "Naila Nasywa A",
 //     "jumlah_halaman" = 35
 // ];
  
