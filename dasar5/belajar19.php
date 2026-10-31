@@ -1,10 +1,10 @@
 <?php
 $daftar_mahasiswa = [
-    "Nadine",
-    "Athala",
-    "Inez",
-    "Danil",
-    "Regita",
+    "Nasywa",
+    "Sabrina",
+    "Kisi",
+    "Sheva",
+    "Dea",
 ];
  
 echo "<h3>Daftar Nama Mahasiswa</h3>";
