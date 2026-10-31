@@ -4,8 +4,8 @@
 
 define('VERSION', '1.0.0');
 
-const AUTHOR = "Nadine Safwa Billa Sugiarto";
-const BASE_URL = "https://github.com/nadinesafwabillasugiarto-ctr/WEB-PHP-NADINE-2A";
+const AUTHOR = "Naila Nasywa A";
+const BASE_URL = "https://github.com/nasywanazsywaa-gif/web-php-nasywa-2A";
 
 // cetak nilai konstanta
 echo "AUTHOR: " . AUTHOR . "<br>";
