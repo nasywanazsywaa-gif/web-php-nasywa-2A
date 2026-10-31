@@ -4,22 +4,22 @@ $absenke = 1;
  
 switch($absenke){
     case 1:
-        echo "Nadine";
+        echo "Nasywa";
         break;
     case 2:
-        echo "Inez";
+        echo "Sabrina";
         break;
     case 3:
-        echo "Devana";
+        echo "Kisi";
         break;
     case 4:
         echo "Sheva";
         break;
     case 5:
-        echo "Regita";
+        echo "Dea";
         break;
     case 6:
-        echo "Fensa";
+        echo "iqbal";
         break;
     case 7:
         echo "Baedo";
